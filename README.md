@@ -49,21 +49,20 @@ Não tem problema em pingar a pessoa no slack falando que você enviou um email 
 Caso um problema esteja precisando de comunicação síncrona pra ser resolvido, não hesite em pedir isso.
 
 ####Ao receber um convite para uma call, crie a sala e chame a pessoa ou responda "sim" e espere ela fazer isso
-Parece bobo, mas se você responder "sim" e for criar a sala, provavelmente as 2 pessoas vão tentar criar uma sala. Ao receber um convite de call, apenas crie a sala e responda ja com o link dela para a pessoa que te convidou, ou responda "sim" e aguarde ela te convidar. 
+Parece bobo, mas se você responder "sim" e for criar a sala, provavelmente as 2 pessoas vão tentar criar uma sala. Ao receber um convite de call, apenas crie a sala e responda ja com o link dela para a pessoa que te convidou, ou responda "sim" e aguarde ela te convidar.
 
 # 3. Newcomer Checklist
 
-* Confirmar treinamentos da semana
-* Confirmar equipe que entrará
-* Conversar com thais sobre questões como deposito de vale transporte e vale refeição para facilitar sua permanência na empresa durante o mês vigente
-* Conhecer sobre os planos que a pagar.me tem como por exemplo: odontológico, médico, desconto em lugares (emporio berrini), gympass
-* Solicitar notebook e o que for necessario pra sua workstation com o thalinho (Thales Ferreira)
-* Solicitar que criem o email @pagar.me
-* Solicitar que adicionem seu email @pagar.me nos alias do gmail que fazem sentido para você
-* Adicionar assinatura de email
-* Colocar fotinha no email (porque tem bastante gente e associar nomes e rostos não é uma tarefa fácil)
-* Criar conta no trello, adicionar fotinha (porque tem bastante gente e associar nomes e rostos não é uma tarefa fácil) e solicitar vinculo no time da pagar.me
-* Criar conta slack no dominio pagarme.slack.com e confirmar com o seu time os principais canais
-* Colocar fotinha no perfil do slack (porque tem bastante gente e associar nomes e rostos não é uma tarefa fácil)
-* Criar conta no github e solicitar vinculo nos times necessários (existem vários)
-* O que é PCI e porque precisamos bloquear o computador
+- [ ] Confirmar treinamentos da semana
+- [ ] Confirmar equipe que entrará
+- [ ] Conversar com Departamento Pessoal sobre questões como deposito de vale transporte e vale refeição para facilitar sua permanência na empresa durante o mês vigente
+- [ ] Conhecer sobre os planos que a pagar.me tem como por exemplo: odontológico, médico, desconto em restaurantes e academias
+- [ ] Solicitar notebook e o que for necessario pra sua workstation com o setor de Facilities
+- [ ] Solicitar criação de email no domínio `pagar.me`
+- [ ] Solicitar que adicionem seu email `pagar.me` nos alias do gmail que fazem sentido para você
+- [ ] Adicionar assinatura de email
+- [ ] Criar conta no trello e solicitar vinculo no time da `pagar.me`
+- [ ] Criar conta slack no dominio `pagarme.slack.com` e confirmar com o seu time os principais canais para acompanhar
+- [ ] Colocar foto em seu email, slack e trello
+- [ ] Criar conta no github e solicitar vinculo na organização e times necessários
+- [ ] O que é PCI e porque precisamos bloquear o computador
