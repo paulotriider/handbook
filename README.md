@@ -6,7 +6,7 @@ Um pouquinho sobre como trabalhamos na melhor empresa de pagamentos do Brasil.
 
 <br>
 
-# 1. [Cultura](CULTURE.md)
+# 1. [Cultura](CULTURA.md)
 
 # 2. Comunicação
 
