@@ -2,10 +2,9 @@
 
 # Cultura Pagar.me
 
-Um pouquinho do como estamos construindo a melhor empresa de pagamentos do Brasil.
-
-
 <br>
+
+###[Voltar para índice](README.md)
 
 ## Motivo
 
