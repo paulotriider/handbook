@@ -49,6 +49,25 @@ Caso um problema esteja precisando de comunicação síncrona pra ser resolvido,
 ####Ao receber um convite para uma call, crie a sala e chame a pessoa ou responda "sim" e espere ela fazer isso
 Parece bobo, mas se você responder "sim" e for criar a sala, provavelmente as 2 pessoas vão tentar criar uma sala. Ao receber um convite de call, apenas crie a sala e responda ja com o link dela para a pessoa que te convidou, ou responda "sim" e aguarde ela te convidar.
 
+## RESERVA DE SALAS
+
+####As salas do pagar.me devem ser reservadas previamente antes de serem utilizadas para reuniões, assim evitando conflitos para o uso das mesmas. A reserva das salas é feita através do google calendar. Para reservar uma sala basta verificar se o horário desejado está disponível e então mandar um invite para a sala como você mandaria para as outras pessoas que devem estar presentes na reunião. Caso a sala esteja disponível ela automaticamente aceitara o convite assim bloqueando a agenda da sala.
+
+**Salas do 11º andar:**
+-Sala Varsóvia
+-Sala São Paulo
+-Sala Knoxville
+-Salinha 1
+-Salinha 2
+-Salinha 3
+
+**Salas do 14º andar:**
+-Sala Sonic
+-Sala Zelda
+-Sala Metroid
+-Sala Donkey Kong
+-Sala Triforce
+
 # 3. Newcomer Checklist
 
 - [ ] Confirmar treinamentos da semana
