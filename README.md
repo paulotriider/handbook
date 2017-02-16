@@ -16,7 +16,7 @@ Um pouquinho sobre como trabalhamos na melhor empresa de pagamentos do Brasil.
 Quando você precisar de algo do colega e for mandar uma mensagem pra ele, envie logo sua dúvida inteira em vez de perguntar "oi, vc ta ai?". Sempre assuma que a pessoa não está disponível e deixe ja sua pergunta clara e objetiva, assim a pessoa consegue responder o quanto antes e otimiza para os dois lados.
 
 ####Issue no GitHub > email > Slack
-Quando precisar repassar um problema pros devs (ou outras áreas) prefira sempre o meio de comunicação que guarda melhor o histórico do problema. Evite ao máximo utilizar o slack para trocar informações que preciam ter um log. Caso seja um problema específico de algum produto que temos repositório no GitHub, não tenha medo de diretamente abrir uma issue no repositório para discutirmos o problema la.
+Quando precisar repassar um problema pros devs (ou outras áreas) prefira sempre o meio de comunicação que guarda melhor o histórico do problema. Evite ao máximo utilizar o slack para trocar informações que precisam de histórico. Caso seja um problema específico de algum produto que temos repositório no GitHub, não tenha medo de diretamente abrir uma issue no repositório para discutirmos o problema la.
 
 ####Pergunte muito, mas nos canais certos
 Aqui na pagarme ninguém nunca irá lhe podar na busca do conhecimento. Pergunte muito, mas sempre pergunte nos locais onde tenha o maior número de pessoas que saibam assertivamente te dar uma resposta, e tente sempre perguntar em locais que documentam as resposta (novamente, GitHub ou email).
