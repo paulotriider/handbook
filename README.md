@@ -6,9 +6,7 @@ Um pouquinho sobre como trabalhamos na melhor empresa de pagamentos do Brasil.
 
 <br>
 
-# 1. Cultura
-
->Pegar do PR pendente do https://github.com/pagarme/culture (depois deletar o repo culture)
+# 1. [Cultura](CULTURE.md)
 
 # 2. Comunicação
 
