@@ -18,4 +18,5 @@
 - [ ] Criar conta slack no dominio `pagarme.slack.com` e confirmar com o seu time os principais canais para acompanhar
 - [ ] Colocar foto em seu email, slack e trello
 - [ ] Criar conta no github e solicitar vinculo na organização e times necessários
+- [ ] Assim que você estiver com o seu notebook solicitar acesso à VPN do `pagar.me`
 - [ ] O que é PCI e porque precisamos bloquear o computador
