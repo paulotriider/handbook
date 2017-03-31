@@ -8,7 +8,7 @@
 
 ## Motivo
 
-Cultura não é algo que se cria. Ela acontece. Se você incentiva a escrita de código bonito, você terá código bonito. Se você incentiva a escrita de testes, você terá testes. [Cultura é o resultado da aplicacão consistente de um _mindset_][rework]. A falta de cultura é um dos motivos pelo qual muitas das startups crescem de maneira desestruturada.
+Cultura não é algo que se cria. Ela acontece. Se você incentiva a escrita de código bonito, você terá código bonito. Se você incentiva a escrita de testes, você terá testes. [Cultura é o resultado da aplicação consistente de um _mindset_][rework]. A falta de cultura é um dos motivos pelo qual muitas das startups crescem de maneira desestruturada.
 
 ## Foco no cliente
 
@@ -24,7 +24,7 @@ Os problemas dos clientes são nossos problemas. Qualquer um pode ser o dono do 
 
 ## Embase em premissas
 
-Discutimos premissas antes da implementacão. A execucão de uma tarefa deve fazer sentido _antes_ de ser materializada.
+Discutimos premissas antes da implementação. A execução de uma tarefa deve fazer sentido _antes_ de ser materializada.
 
 ## Compromisso de entrega
 
