@@ -10,5 +10,7 @@ Um pouquinho sobre como trabalhamos na melhor empresa de pagamentos do Brasil.
 
 # 2. [Comunicação](COMUNICACAO.md)
 
+# 3. [Workflows](workflows)
+
 # 3. [Newcomer Checklist](CHECKLIST.md)
 

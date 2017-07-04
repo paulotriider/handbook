@@ -24,7 +24,20 @@ Sempre que você se referir a alguma coisa que tenha o link, cole o link junto c
 Evite sempre criar arquivos em locais onde outras pessoas da empresa não conseguem acessar. Transparência está no coração da nossa cultura, facilitar o tráfego de informações ajuda muito a sermos transparentes.
 
 #### Agradecer as pessoas que te ajudaram é sempre legal!
-Não tenha medo de usar os canais dos slack para agradecer quem te ajudou! Somos seres humanos, gostamos de trocar emoções.
+Não tenha medo de usar os canais dos slack para agradecer quem te ajudou! Somos seres humanos, gostamos de trocar emoções, vamos fazer uma festa se preciso!
+
+#### Open Source Awareness
+
+Sempre que estiver em locais de trabalho, atente-se se você está um ambiente
+Open Source ou Private.
+
+A única exceção que a ética de pesquisa não se sobrepõe é de ter material gravado ou coletado do cliente, com consentimento deve ser acordado entre as partes. Caso não haja esse acordo formal (contrato), nenhum material deve expor o cliente pelo simples fato do enquadramento de jurisprudência de direito e uso de imagem. Ou seja,
+
+> Sem contrato explicito que o cliente assina e autoriza a divulgação de qualquer tipo de interação, todo e qualquer material derivado disso é confidencial.
+> Quando aberto e público, o cliente deve ser notificado no convite da pesquisa, sendo informado das condições da pesquisa para uma decisão de participação ou não-participação.
+> O cliente pode demandar a qualquer momento que todo o material que foi préviamente autorizado a ser publicado, seja removido, sem qualquer tipo de ônus
+
+Portanto, qualquer atuação fora desses limites, expõe o pagar.me a destrato comercial, e até um processo por uso indevido de informações sigilosas, imagem ou informação pública.
 
 ## EMAIL
 
@@ -44,3 +57,4 @@ Caso um problema esteja precisando de comunicação síncrona para ser resolvido
 
 #### Ao receber um convite para uma call, crie a sala e chame a pessoa ou responda "sim" e espere ela fazer isso
 Parece bobo, mas se você responder "sim" e for criar a sala, provavelmente as 2 pessoas vão tentar criar uma sala. Ao receber um convite de call, apenas crie a sala e responda ja com o link dela para a pessoa que te convidou, ou responda "sim" e aguarde ela te convidar.
+
