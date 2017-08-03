@@ -21,25 +21,25 @@ Aqui na pagarme ninguém nunca irá lhe podar na busca do conhecimento. Pergunte
 Sempre que você se referir a alguma coisa que tenha o link, cole o link junto com sua mensagem. Nunca assuma que a outra pessoa sabe de qual problema/commit/página/cliente você está se referindo.
 
 #### Todas as informações devem ser abertas a serem compartilhadas por padrão
-Evite sempre criar arquivos em locais onde outras pessoas da empresa não conseguem acessar. Transparência está no coração da nossa cultura, facilitar o tráfego de informações ajuda muito a sermos transparentes.
+Evite salvar arquivos em locais que outras pessoas da empresa não têm acesso. Transparência está no coração da nossa cultura, facilitar o tráfego e o acesso às informações é essencial.
 
 #### Agradecer as pessoas que te ajudaram é sempre legal!
-Não tenha medo de usar os canais dos slack para agradecer quem te ajudou! Somos seres humanos, gostamos de trocar emoções, vamos fazer uma festa se preciso!
+Não tenha medo de usar os canais do Slack para agradecer! Somos seres humanos, gostamos de trocar emoções =)
 
 #### Open Source Awareness
 
 Sempre que estiver em locais de trabalho, atente-se se você está um ambiente
 Open Source ou Private.
 
-A única exceção que a ética de pesquisa não se sobrepõe é de ter material gravado ou coletado do cliente, com consentimento deve ser acordado entre as partes. Caso não haja esse acordo formal (contrato), nenhum material deve expor o cliente pelo simples fato do enquadramento de jurisprudência de direito e uso de imagem. Ou seja,
+Para que o material gravado ou coletado no momento da pesquisa possa ser divulgado, bem como os dados do entrevistado, é necessário que haja um acordo formal entre as partes. Ou seja,
 
-> Sem contrato explicito que o cliente assina e autoriza a divulgação de qualquer tipo de interação, todo e qualquer material derivado disso é confidencial.
-> Quando aberto e público, o cliente deve ser notificado no convite da pesquisa, sendo informado das condições da pesquisa para uma decisão de participação ou não-participação.
-> O cliente pode demandar a qualquer momento que todo o material que foi préviamente autorizado a ser publicado, seja removido, sem qualquer tipo de ônus
+> Caso não exista um contrato, nenhum material deve expor o cliente, pois estaríamos violando o direito e uso de imagem. Nestes casos, todo e qualquer material é confidencial.
+> Sendo assim, o entrevistado deve ser sempre informado das condições da pesquisa (pública, confidencial), a fim de decidir se participará ou não.
+> O cliente pode pedir, a qualquer momento, sem quaisquer ônus, que todo o material que foi previamente autorizado a ser divulgado, não o seja mais.
 
-Portanto, qualquer atuação fora desses limites, expõe o pagar.me a destrato comercial, e até um processo por uso indevido de informações sigilosas, imagem ou informação pública.
+Qualquer atuação fora desses limites expõe o Pagar.me a um destrato comercial. Não cumprir com esses parâmetros também pode acarretar um processo por uso indevido de informações e dados.
 
-## EMAIL
+## E-mail
 
 #### Ao enviar emails, separe um assunto por email
 É mais fácil para quem recebeu os emails lidar com eles de 1 por 1. Colocar mais de um assunto no email pode causar demoras para a pessoa responder pois ela vai tentar resolver tudo antes de te responder.
