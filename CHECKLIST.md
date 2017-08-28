@@ -4,7 +4,7 @@
 
 <br>
 
-###[Voltar para índice](README.md)
+### [Voltar para índice](README.md)
 
 - [ ] Confirmar treinamentos da semana
 - [ ] Confirmar equipe que entrará
